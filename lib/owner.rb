@@ -9,4 +9,10 @@ class Owner
     OWNERS << self
     @pets = {:fishes => [], :dogs => [], :cats => []}
   end
+  
+  
+  
+  
+  
+  
 end
