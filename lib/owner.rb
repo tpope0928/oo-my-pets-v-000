@@ -10,7 +10,9 @@ class Owner
     @pets = {:fishes => [], :dogs => [], :cats => []}
   end
   
-  def 
+  def reset_all
+    
+  end
   
   
   
