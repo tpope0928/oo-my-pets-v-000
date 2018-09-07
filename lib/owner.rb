@@ -18,7 +18,8 @@ class Owner
     OWNERS.clear
   end
   
-  def count 
+  def self.count
+    
   
   
   
