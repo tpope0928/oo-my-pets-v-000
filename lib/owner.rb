@@ -39,7 +39,7 @@ class Owner
   end
   
   def walk_dogs
-
+    pets[:dogs]
   end
   
   def plays_with_cats
