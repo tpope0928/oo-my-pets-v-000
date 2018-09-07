@@ -11,7 +11,7 @@ class Owner
   end
   
   def reset_all
-    
+    OWNERS.clear
   end
   
   
