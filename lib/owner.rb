@@ -30,4 +30,5 @@ class Owner
     pets[:fishes] << Fishes.new(name)
   end
   
+  def
 end
