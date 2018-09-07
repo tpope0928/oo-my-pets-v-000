@@ -49,7 +49,7 @@ class Owner
   end
   
   def feed_fish
-    
+    pets[:fish]
   end
   
   def sell_pets
