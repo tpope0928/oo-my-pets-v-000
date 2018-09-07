@@ -49,7 +49,7 @@ class Owner
   end
   
   def feed_fish
-    pets[:fish]
+    pets[:fishes].each do |
   end
   
   def sell_pets
