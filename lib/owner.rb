@@ -42,9 +42,20 @@ class Owner
 
   end
   
+  def plays_with_cats
+    
+  end
   
+  def feed_fish
+    
+  end
+  
+  def sell_pets
+    
+  end
+  
+  def list_pets
+    
+  end
 
-  
-  
-  
 end
