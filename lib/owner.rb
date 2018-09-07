@@ -22,7 +22,8 @@ class Owner
     OWNERS.size
   end
   
-  
+  def say_species
+    
   
   
 end
